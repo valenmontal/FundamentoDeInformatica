@@ -1,0 +1,6 @@
+#1: Escribir un programa que im
+string= input ("ingrese una palabra")
+
+str= input("insertar string de minimo 6 letras: ")
+if len(str)>= 6:
+    print (str)
